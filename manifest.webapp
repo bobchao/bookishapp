@@ -3,6 +3,7 @@
   "description": "Unofficial, re-direct-based Web App for Booki.sh",
   "launch_path": "/",
   "icons": {
-    "64":  "/bookish_icon.png"
+    "64":  "/icon_64.png",
+    "128":  "/icon_128.png"
   }
 }
