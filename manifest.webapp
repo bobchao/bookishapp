@@ -1,8 +1,8 @@
 {
   "name": "Booki.sh",
   "description": "Unofficial, re-direct-based Web App for Booki.sh",
-  "launch_path": "/bookishapp/",
+  "launch_path": "/",
   "icons": {
-    "64":  "/bookishapp/bookish_icon.png"
+    "64":  "/bookish_icon.png"
   }
 }
