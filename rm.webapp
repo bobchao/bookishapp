@@ -8,6 +8,6 @@
     "60": "/rm_60.png",
     "128": "/rm_128.png"
   },
-  "launch_path": "/index_rm.html"
+  "launch_path": "/index_rm.html",
   "fullscreen": "true",
   "description": "Readmoo"}
