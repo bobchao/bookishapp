@@ -1,1 +1,12 @@
-{"name": "Readmoo", "icons": {"60": "/rm_60.png", "128": "/rm_128.png"}, "fullscreen": "true", "description": "Readmoo"}
+{
+  "name": "Readmoo",
+  "developer": {
+    "name": "BobChao",
+    "url": "http://blog.bobchao.net"
+  },
+  "icons": {
+    "60": "/rm_60.png",
+    "128": "/rm_128.png"
+  },
+  "fullscreen": "true",
+  "description": "Readmoo"}
